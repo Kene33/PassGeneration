@@ -6,6 +6,6 @@
 
 2) pip install sys
 
-3) cd the path to the folder with the file
+3) cd /the path to the folder with the file
 
 4) python passgen.by
