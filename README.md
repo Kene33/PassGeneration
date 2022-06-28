@@ -8,4 +8,4 @@
 
 3) cd the path to the folder with the file
 
-4)python passgen.by
+4) python passgen.by
